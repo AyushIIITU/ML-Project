@@ -1,0 +1,10 @@
+organisation,Ministry of Education
+sectors,"Education"
+updated_frequency,Yearly
+granularity,"State, City"
+time_saved,6 hours
+source,"The National Eligibility cum Entrance Test"
+source_link,"https://neet.ntaonline.in/frontend/web/common-scorecard/index"
+time_period,"2024"
+units,"marks in absolute number"
+citation,"Ministry of Education. NEET Results: State, City and Examination Center-wise Marks Obtained by Each Student [Data set]. Dataful. https://dataful.in/datasets/20201/20201"
